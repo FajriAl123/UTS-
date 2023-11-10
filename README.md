@@ -1,9 +1,9 @@
 # UTS-
 # DeretFibonacci
 
-Nama : Dimas Aditya Putranto 
+Nama : Fajri Al Jauhari 
 
-NIM : 312210489
+NIM : 312210476
 
 Kelas : TI.22.A5
 
